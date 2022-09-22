@@ -1,0 +1,3 @@
+PLANNING
+- Tosa ramadhan jadi FE
+  * FE, BE, FULLSTACK
